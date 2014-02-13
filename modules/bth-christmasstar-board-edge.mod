@@ -1,0 +1,20 @@
+PCBNEW-LibModule-V1  11/9/2013 10:33:53 AM
+# encoding utf-8
+Units mm
+$INDEX
+ChristmasStarBoardEdge
+$EndINDEX
+$MODULE ChristmasStarBoardEdge
+Po 0 0 0 15 527E6365 00000000 ~~
+Li ChristmasStarBoardEdge
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1 1 0 0.15 N V 21 N ""
+T1 2.159 0.4699 1 1 0 0.15 N V 21 N "VAL**"
+DS 14.986 41.021 -6.6548 41.021 0.15 27
+DS -6.6548 41.021 -6.6548 -42.799 0.15 27
+DS -6.6548 -42.799 1.778 -42.799 0.15 27
+DS 1.778 -42.799 14.986 41.021 0.15 27
+$EndMODULE ChristmasStarBoardEdge
+$EndLIBRARY
